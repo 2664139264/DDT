@@ -1,0 +1,2 @@
+# DDT
+Decoupled Decision Transformer
